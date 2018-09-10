@@ -12,7 +12,7 @@ se dibujará un poligono cuyos lados serán ingresados por el usuario, se facili
 dividiendo 360 en el número de lados para así generar el ángulo de trazo.  
 **Programa 3**  
 Tomando como ejemplo el punto 2, se dibuja el poligono mayor al igual que el menor 
-dividiendo 360 en el número ingresado y reemplazando en la función ya definida.
+dividiendo 360 en el número ingresado y reemplazando en la función ya definida.  
 **Programa 4**    
 Se debe utilizar un doble ciclo for, uno para que incremente las filas y otro para ilustre
 los respectivos poligonos en cada una de ellas.  
